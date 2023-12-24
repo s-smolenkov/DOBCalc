@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="black">#FF000000</color>
+    <color name="purple_500">#673AB7</color>
+    <color name="purple_700">#303F9F</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="teal200">#80DEEA</color>
+    <color name="teal500">#009688</color>
+    <color name="textBlue">#264653</color>
+    <color name="bgColor">#e9c46a</color>
+    <color name="redish">#e76f51</color>
+    <color name="greenish">#8ab17d</color>
+    <color name="grey">#6c757d</color>
+
+
 </resources>
